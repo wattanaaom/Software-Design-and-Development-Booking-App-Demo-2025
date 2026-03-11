@@ -677,7 +677,7 @@ npm run dev
 
 > แทรกรูปภาพที่นี่
 
----
+---![alt text](image-1.png)
 
 ### 3.2 การสร้าง Components
 
